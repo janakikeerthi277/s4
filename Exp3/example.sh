@@ -1,0 +1,7 @@
+echo -e "Current user: $USER  , Logname: $LOGNAME\n"
+echo -e "Current shell: $SHELL\n"
+echo -e "Home directory: $HOME\n"
+echo -e "Operating system: $OSTYPE\n"
+echo -e "Current path setting: $PATH\n"
+echo -e "Current working directory: $PWD\n"
+echo -e "Logged no: of users: $user\n"
